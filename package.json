@@ -2,7 +2,7 @@
   "name": "frontendarc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{PappNiki20}.github.io/{frontendarc}",
+  "homepage": "http://PappNiki20.github.io/frontendarc",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
